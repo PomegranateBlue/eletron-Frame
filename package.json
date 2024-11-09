@@ -1,0 +1,13 @@
+{
+  "name": "frameapp",
+  "version": "1.0.0",
+  "description": "Hello world",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "redPome",
+  "license": "MIT"
+}
